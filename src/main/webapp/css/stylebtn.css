@@ -1,0 +1,59 @@
+input[type="submit"] {
+    font-size: 16px;
+    padding: 10px 65px;
+    background-color: #537b35;
+    color: #FFF;
+    border: none;
+    border-radius: 0px;
+    outline: none;
+    float: none;
+    cursor: pointer;
+}
+a[type="run"] {
+    font-size: 16px;
+    padding: 10px 65px;
+    background-color: #537b35;
+    color: #FFF;
+    border: none;
+    border-radius: 0px;
+    outline: none;
+    float: none;
+    cursor: pointer;
+}
+
+.left {
+    display: inline-block; /* Hiển thị trên cùng một hàng */
+    width: 150px; /* Độ rộng của label chính */
+    text-align: right; /* Căn chỉnh văn bản theo chiều ngang sang phải */
+    margin-right: 10px; /* Khoảng cách giữa label chính và label phụ */
+    font-size: 24px;
+}
+.right {
+    display: inline-block; /* Hiển thị trên cùng một hàng */
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.w3layoutscontaineragileits h5 label{
+    font-weight: bold;
+    font-size: 30px;
+}
+.user {
+    margin-bottom: 15px;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 18px;
+}
+label.radiobutton{
+    text-align: left;
+    display: inline-block;
+    margin: 5px 0px 0px 25px;
+    text-align: left;
+    font-size: 18px;
+}
+.menu-item-has-children > a:after { display: none; }
+
